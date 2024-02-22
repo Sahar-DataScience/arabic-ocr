@@ -6,7 +6,7 @@
 1. step 1 : applying preprocessing  techniques to guarantee better results
 
 2. step 2 : extract the txt using ocr tools:
-   - easy ocr vs tesseract : better result are made by tesseract.
+   - **easy-ocr** vs **tesseract** vs **Trocr by hugging face** : better result are made by tesseract.
 
 4. step 3 :  extracting the specific key words using nltk tools like :
    - stemming using nltk.stem.SnowballStemmer as it supports arabic
